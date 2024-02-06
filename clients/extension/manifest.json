@@ -8,7 +8,7 @@
       "id": "{cf3dba12-a848-4f68-8e2d-f9fadc0721de}"
     }
   },
-  "description": "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.",
+  "description": "Lighthouse is a great open-source, automated tool for improving the performance, quality, and correctness of your web apps.",
   "icons": {
     "16": "images/lh_favicon_16x16.png",
     "128": "images/lh_logo_128x128.png"
